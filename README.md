@@ -11,7 +11,8 @@ enabling efficient recycling and reducing manual labor. With the power of deep l
 ---
 
 ## 🎥 Demo
-Try the live demo: [Insert Gradio Link or Colab Link here]  
+Try the live demo: https://github.com/user-attachments/assets/105459b9-10cc-4afd-9ce5-089f07758bd1
+
 
 Example output:  
 Test images
